@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 /**
  * @author 7eoAldamas
- *
+ * Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
+ * 
  */
 public class Main {
 
